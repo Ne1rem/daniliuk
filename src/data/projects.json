@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "img": "/projects/vesta.jpg",
+    "title": "Mission The Volunteer Association \"Vesta\" Charity Fund",
+    "description": "Versal is committed to supporting military personnel on the front lines by providing vehicles, ammunition, weapon upgrades, and other essential supplies. Additionally, we offer legal and psychological support to servicemen and veterans, their families, as well as the families of the fallen and the missing.",
+    "projectsInfo": {
+      "Year": 2024,
+      "Role": "Front-end Developer",
+      "Technologies": "Next, TypeScript, Tailwind, CSS, React hook form, Headless UI"
+    },
+    "links": {
+      "liveDemo": "https://www.ngovesta.org/",
+      "github": "https://github.com/SoftRyzen-internship/vesta_main_site"
+    }
+  },
+  {
+    "id": 2,
+    "img": "/projects/readJourney.png",
+    "title": "Read Journey",
+    "description": "BookNest — a modern web platform where users can explore books, add their favorites, and manage personal reading lists. The site offers a simple and intuitive interface for browsing and discovering new titles.",
+    "projectsInfo": {
+      "Year": 2024,
+      "Role": "Front-end Developer",
+      "Technologies": "Next, TypeScript, Tailwind, CSS, React hook form"
+    },
+    "links": {
+      "liveDemo": "https://read-journey-seven.vercel.app/",
+      "github": "https://github.com/Ne1rem/read-journey"
+    }
+  },
+  {
+    "id": 3,
+    "img": "/projects/superfood.jpg",
+    "title": "Superfood",
+    "description": "Superfood - the site of a Ukrainian company that offers superfoods for your health. It is built with Next.js, Tailwind CSS, TypeScript — a powerful and modern stack that provides scalability, performance, and ease of maintenance. The synergy between these technologies enables fast development, an excellent developer experience, and flexibility in content management and presentations.",
+    "projectsInfo": {
+      "Year": 2024,
+      "Role": "Front-end Developer",
+      "Technologies": "Next, TypeScript, Tailwind, Sanity, Swiper, Headless UI"
+    },
+    "links": {
+      "liveDemo": "https://superfood.vercel.app/",
+      "github": "https://github.com/SoftRyzen-internship/superfood"
+    }
+  }
+]

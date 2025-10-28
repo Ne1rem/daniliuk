@@ -1,6 +1,7 @@
-import Header from "./components/Header/Header";
+import Header from "./sections/Header/Header";
+import { LayoutProps } from "./Types/LayoutProps";
 
-function Layout({ children }) {
+function Layout({ children }: LayoutProps) {
   return (
     <div className="flex flex-col min-h-screen text-primary-color bg-page-color font-bebas">
       <Header />

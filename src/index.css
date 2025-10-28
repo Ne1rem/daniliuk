@@ -31,10 +31,7 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
   @apply font-bold text-white;
   font-family: "BebasNeue", sans-serif;
 }
@@ -47,15 +44,6 @@ h2 {
 }
 h3 {
   @apply text-2xl;
-}
-h4 {
-  @apply text-xl;
-}
-h5 {
-  @apply text-lg;
-}
-h6 {
-  @apply text-base;
 }
 
 a {
@@ -76,4 +64,3 @@ select,
 button {
   @apply font-sans;
 }
-

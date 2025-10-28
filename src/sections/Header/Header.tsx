@@ -1,4 +1,4 @@
-import Navigation from "./Navigation";
+import Navigation from "../../components/Navigation/Navigation";
 
 function Header() {
   return (

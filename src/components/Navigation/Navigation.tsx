@@ -39,7 +39,7 @@ function Navigation() {
               ? "rotate-90 transition-all duration-500"
               : "transition-all duration-500"
           } 
-          sm:hidden w-[30px] h-[30px] cursor-pointer z-50 fixed right-[16px] top-[22  px]
+          sm:hidden w-[30px] h-[30px] cursor-pointer z-50 fixed right-[16px] top-[22px]
         `}
       />
 
@@ -51,7 +51,7 @@ function Navigation() {
               : "translate-x-full opacity-0"
           } 
           sm:translate-x-0 sm:opacity-100
-          fixed top-[80px] right-2 w-[20%] bg-color-projects-img text-white 
+          fixed top-[80px] right-2 w-[20%] bg-[#2e2d2d] text-white 
           flex flex-col items-center justify-center gap-8 text-2xl font-inter
           transition-all duration-500 ease-in-out rounded-2xl
           sm:static sm:flex-row sm:bg-transparent sm:text-black sm:w-auto sm:h-auto max-sm:text-[20px] max-sm:h-[150px]
@@ -62,7 +62,7 @@ function Navigation() {
             <Link
               smooth={true}
               duration={500}
-              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-gray-400"
+              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-button-bg"
               to="projects"
             >
               Work
@@ -72,7 +72,7 @@ function Navigation() {
             <Link
               smooth={true}
               duration={500}
-              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-gray-400"
+              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-button-bg"
               to="about"
             >
               About
@@ -82,7 +82,7 @@ function Navigation() {
             <Link
               smooth={true}
               duration={500}
-              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-gray-400"
+              className="p-1 no-underline transition-colors duration-300 cursor-pointer hover:text-button-bg"
               to="contacts"
             >
               Contact
