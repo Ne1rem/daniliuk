@@ -3,7 +3,7 @@ export interface Project {
   img: string;
   title: string;
   description: string;
-  projectsInfo: { [key: string]: string };
+  projectsInfo: { [key: string]: string | number };
   links: {
     liveDemo: string;
     github: string;
