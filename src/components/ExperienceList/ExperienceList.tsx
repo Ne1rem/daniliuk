@@ -5,31 +5,33 @@ function ExperienceList() {
         <li>
           <div className="flex flex-row justify-between mb-5">
             <p className="font-manrope font-medium text-[24px] leading-[130%] text-white">
-              Freelance Developer
+              Front-End Intern
             </p>
             <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-              Nov 2023 — Present
+              Apr 2024 — Jul 2024
             </p>
           </div>
           <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur.
+            Completed a 2-month internship at SoftRyzen as part of a 7-person
+            development team. Worked with Next.js and Tailwind CSS on real
+            product features, collaborated through code reviews and task
+            planning, and gained my first commercial development experience.
           </p>
         </li>
         <li>
           <div className="flex flex-row justify-between mb-5">
             <p className="font-manrope font-medium text-[24px] leading-[130%] text-white">
-              Front-End Intern
+              Front-End Courses
             </p>
             <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-              Sep 2023 — Nov 2023
+              Feb 2023 — Dec 2023
             </p>
           </div>
           <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-            irure dolor in reprehenderit in voluptate velit esse cillum dolore
-            eu fugiat nulla pariatur.
+            Completed Fullstack training at GOIT. Gained a solid understanding
+            of HTML, CSS, JavaScript, and learned to work with React, Redux, and
+            Node.js. Participated in team projects, code reviews, and learned
+            essential teamwork and development practices.
           </p>
         </li>
       </ul>
