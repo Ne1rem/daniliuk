@@ -14,7 +14,7 @@ function Contacts() {
             <Title name="Let's Connect" />
             <div className="flex flex-col gap-2 max-sm:gap-3">
               <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-                Say hello at
+                Say hello at{" "}
                 <a
                   href="mailto:anatolydanilyuk2002@gmail.com"
                   className="text-white border-b-[2px] border-button-bg"
@@ -23,7 +23,7 @@ function Contacts() {
                 </a>
               </p>
               <p className="font-manrope font-normal text-[18px] leading-[150%] text-primary-color">
-                For more info,here's my
+                For more info,here's my{" "}
                 <a
                   href="/public/CV_Daniliuk_FrontEnd.pdf"
                   download={true}
